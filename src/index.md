@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://media.discordapp.net/attachments/490602677324087296/819623003745681408/noooooooooodle.pn
 tagline: Guide for the Noodle cards NFT.
-actionText: Quick Start →
+actionText: Get started →
 actionLink: /guide/
 features:
 - title: Feature 1 Title
