@@ -1,0 +1,19 @@
+{
+  "name": "guide.noodle.cards",
+  "version": "0.0.1",
+  "description": "Guide for the Noodle cards NFT.",
+  "main": "index.js",
+  "authors": {
+    "name": "Lucas Decrock",
+    "email": "lucas@decrock.me"
+  },
+  "repository": "/guide.noodle.cards",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
