@@ -8,8 +8,8 @@ You can earn a lot of prizes by completing the tasks of the game. Some tasks are
 You can find the list of open tasks on the app, and we will add new tasks every week (stay tuned).
 
 ## Farm $NDL token
-If you don't know anything about liquidity pools, we suggest this article from Binance [link].
-You can earn $NDL tokens by staking NDL/BNB LP tokens on our pools, which is available on PancakeSwap. The reward is defined in the tokenomics. If you want help for staking, you can look at this video [link].
+If you don't know anything about liquidity pools, we suggest this article from Binance [https://www.google.com/amp/s/academy.binance.com/en/articles/what-are-liquidity-pools-in-defi.amp](Link).
+You can earn $NDL tokens by staking NDL/BNB LP tokens on our pools, which is available on PancakeSwap. The reward is defined in the tokenomics. If you want help for staking, you can look at this video [coming soon].
 Be careful, there are some rules you need to understand before staking:
 When you stake some tokens, you can’t add any tokens to the staking, you will have to unstake and then stake the total amount you want to stake.
 You can only unstake the total amount staked. You can’t unstake a part of the tokens you stake.
