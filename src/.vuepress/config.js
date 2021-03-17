@@ -49,7 +49,13 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'getting-started',
+            'cards',
+            'packs',
+            'token',
+            'earnings',
+            'tokenomics',
+            'faq'
           ]
         }
       ],
