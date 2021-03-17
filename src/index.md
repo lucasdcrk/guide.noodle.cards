@@ -7,7 +7,7 @@ actionLink: /guide/
 features:
 - title: First NFT game 🎉
   details: The first NFT based on mangas and animes.
-- title: Binance Smartchain 
+- title: Binance Smartchain 🔥
   details: The token is backed by the BSC, with low fees.
 - title: Community powered ✌️
   details: We are open to feedback on our Telegram channel.
