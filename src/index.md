@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://media.discordapp.net/attachments/490602677324087296/819623003745681408/noooooooooodle.pn
+heroImage: https://cdn.discordapp.com/attachments/820269838030078002/821862891355373618/logo.png
 tagline: Guide for the Noodle cards NFT.
 actionText: Get started →
 actionLink: /guide/
