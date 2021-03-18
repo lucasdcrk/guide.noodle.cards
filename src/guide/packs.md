@@ -1,5 +1,7 @@
 # Packs
 
+![Pack](https://imgur.com/8EKTroh.png)
+
 ## Pack opening
 You can buy a pack and open it on the shop page of our app. The price is displayedon the page and you can only buy packs with $NDL. The price can change and the amount of cards in packs will always decrease (actually 250 $NDL for 10 cards).
 When you open a pack, each card you draw has chances of being of a rarity. Here are the probabilities (which can’t be chagned):
