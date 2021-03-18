@@ -1,6 +1,6 @@
 # Tokenomics
 
-Contract address: https://bscscan.com/token/0xa9e35a238d9d7977c9c929a4e1b0127c39449d1c
+Contract address: [0xa9e35a238d9d7977c9c929a4e1b0127c39449d1c](https://bscscan.com/token/0xa9e35a238d9d7977c9c929a4e1b0127c39449d1c)
 
 Initial supply: 1,000,000
 
