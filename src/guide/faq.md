@@ -8,6 +8,6 @@
 ![Import Token](https://imgur.com/9KAjd3P.png)
 
 3) Choose the amount you want to buy and click "Swap".
-<center>[Swap](https://imgur.com/Dy8O4OG.png)</center>
+<center>![Swap](https://imgur.com/Dy8O4OG.png)</center>
 
 ## How to farm $NDL?
