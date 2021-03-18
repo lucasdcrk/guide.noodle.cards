@@ -1,6 +1,6 @@
 # Packs
 
-<center><img src="https://imgur.com/8EKTroh.png" alt="Pack" width="200"/></center>
+<img src="https://imgur.com/8EKTroh.png" alt="Pack" width="200"/>
 
 ## Pack opening
 You can buy a pack and open it on the shop page of our app. The price is displayedon the page and you can only buy packs with $NDL. The price can change and the amount of cards in packs will always decrease (actually 250 $NDL for 10 cards).
