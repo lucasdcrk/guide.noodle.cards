@@ -1,7 +1,7 @@
 # Cards
 
 ## Card rarity
-When a new manga character is released in the game, we have to set his rarity. Rarity is mostly defined by the popularity of the character. For example, Naruto is a Legendary character and Sasha from SNK is a Rare character.
+When a new manga character is released in the game, we have to set his rarity. Rarity is mostly defined by the popularity of the character.
 There are 5 rarity of cards which are:
 - Legendary
 - Mythic
@@ -9,8 +9,8 @@ There are 5 rarity of cards which are:
 - Rare
 - Common
 
-Each rarity defines the supply of the concerned character. It does mean there are more Epic Sasha cards than Naruto ones.
-The supplies are defined in the Smart Contract and it can’t be changed, this is why the Noodle Cards are really rare: if the game gets notoriety, the supply of Naruto will be the same as in the early days.
+Each rarity defines the supply of the concerned character. It does mean there are more Epic cards than Legendary ones.
+The supplies are defined in the Smart Contract and it can’t be changed, this is why the Noodle Cards are really rare: if the game gets notoriety, the supply of all characters will be the same as in the early days.
 The supplies are defined this way:
 - Legendary: 5 cards/character
 - Mythic: 20 cards/character
