@@ -1,7 +1,5 @@
 # Cards
 
-<img src="https://imgur.com/mV9BXBp.png" alt="Rarities"/>
-
 ## Card rarity
 When a new manga character is released in the game, we have to set his rarity. Rarity is mostly defined by the popularity of the character. For example, Naruto is a Legendary character and Sasha from SNK is a Rare character.
 There are 5 rarity of cards which are:
