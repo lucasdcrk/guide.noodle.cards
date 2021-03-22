@@ -6,9 +6,9 @@ Initial supply: 1,000,000
 
 Hard cap: 3,000,000
 
-Initial Emission/block: 1
+Initial Emission/block: 0.05
 
-Emission/day (estimated): 30,000
+Emission/day (estimated): 1,500
 
 The emission will decrease until the total supply reaches hard cap.
 
