@@ -4,7 +4,7 @@ Contract address: [0xa9e35a238d9d7977c9c929a4e1b0127c39449d1c](https://bscscan.c
 
 Initial supply: 1,000,000
 
-Hard cap: 3,000,000
+Hard cap: 1,000,000
 
 Initial Emission/block: 0.05
 
